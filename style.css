@@ -24,7 +24,13 @@ span{
     border: 1px black solid;
     border-radius: 5px;
 }
-
+#titulo{
+        background-color: rgb(18, 172, 46);
+    color: rgb(72, 9, 73);
+    padding: 3px;
+    border: 1px rgb(31, 142, 27) solid;
+    border-radius: 5px;
+}
 div{
     border: 10px solid green;
     padding: 5px;
